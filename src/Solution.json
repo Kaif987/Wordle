@@ -1,0 +1,15 @@
+{
+    "solution":[
+        {"id":1,"word":"hello"},
+        {"id":2,"word":"ninja"},
+        {"id":3,"word":"lover"},
+        {"id":4,"word":"smash"},
+        {"id":5,"word":"guard"},
+        {"id":6,"word":"chair"},
+        {"id":7,"word":"table"},
+        {"id":4,"word":"greed"},
+        {"id":5,"word":"treat"},
+        {"id":6,"word":"liver"},
+        {"id":7,"word":"brain"}
+    ]
+}
